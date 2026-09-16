@@ -19,9 +19,7 @@ These are the **assets + content** you'll use to follow along with the video —
 
 Get the **complete, production-ready final source code** - every component, the day/night switch, the widgets, and all the Motion polish, assembled and ready to run.
 
-**[⚡ Get instant access to the final code →](https://store.dodopayments.com/codebucks)**
-
-> The final repo lands in your GitHub account via private invitation, so you can clone, customize, and deploy immediately.
+**[Get Final Next.js portfolio code →](https://github.com/codebucks27/Nextjs-Developer-Portfolio)**
 
 ---
 
