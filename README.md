@@ -121,3 +121,7 @@ bun dev            # or: npm run dev
 ---
 
 <p align="center"><em>Happy building and don't forget to ⭐ the repo!</em></p>
+
+## From the creator
+
+My other hosted product, [SmartHeadshots AI](https://www.smartheadshots.ai/), helps you create professional profile photos.
